@@ -1,0 +1,38 @@
+Lista Extra de Exercicios (1)
+Introdugao 4 Inteligéncia Artificial, CIC, UnB
+Prof. Dibio
+
+Todos esses exercicios sAo de (Russell & Norvig, 2010)
+
+1.7 To what extent are the following computer systems instances of artificial intelligence:
+
+e Supermarket bar code scanners.
+
+e Web search engines.
+
+e Voice-activated telephone menus.
+
+e Internet routing algorithms that respond dynamically to the state of the network.
+
+1.8 Many of the computational models of cognitive activities that have been proposed in-
+volve quite complex mathematical operations, such as convolving an image with a Gaussian
+or finding a minimum of the entropy function. Most humans (and certainly all animals) never
+learn this kind of mathematics at all, almost no one learns it before college, and almost no
+one can compute the convolution of a function with a Gaussian in their head. What sense
+does it make to say that the “vision system” is doing this kind of mathematics, whereas the
+actual person has no idea how to do it?
+
+1.9 Why would evolution tend to result in systems that act rationally? What goals are such
+systems designed to achieve?
+
+1.10 Is Ala science, or is it engineering? Or neither or both? Explain.
+
+1.11 “Surely computers cannot be intelligent—they can do only what their programmers
+tell them.” Is the latter statement true, and does it imply the former?
+
+1.12 ‘Surely animals cannot be intelligent—they can do only what their genes tell them.”
+Is the latter statement true, and does it imply the former?
+
+1.13 “Surely animals, humans, and computers cannot be intelligent—they can do only what
+their constituent atoms are told to do by the laws of physics.” Is the latter statement true, and
+does it imply the former?

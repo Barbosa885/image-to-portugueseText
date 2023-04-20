@@ -1,0 +1,5 @@
+opencv
+pytesseract
+pdf2image
+deep-translator
+os
